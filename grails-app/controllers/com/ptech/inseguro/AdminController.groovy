@@ -2,5 +2,7 @@ package com.ptech.inseguro
 
 class AdminController {
 
-    def index() { }
+    def index() {
+
+    }
 }
